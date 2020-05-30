@@ -5,6 +5,7 @@ int main(){
 	cout<<"Starting the program"<<flush; //flush only flushes the buffer
 	cout<<"Printing text"<<endl;	 /*ENDL adds and endline in the printing before 
 					 flushing the buffer*/
+	cout<<"Adding more text"<<endl;
 	return 0;
 }
 
