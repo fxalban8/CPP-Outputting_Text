@@ -3,7 +3,7 @@ using namespace std; //std stands for standard
 
 int main(){
 
-	cout<<"Printing text"<<endl	 /*ENDL adds and endline in the printing before 
+	cout<<"Printing text"<<endl;	 /*ENDL adds and endline in the printing before 
 					 flushing the buffer*/
 	return 0;
 }
