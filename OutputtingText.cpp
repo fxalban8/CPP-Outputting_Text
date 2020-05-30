@@ -6,6 +6,14 @@ int main(){
 	cout<<"Printing text"<<endl;	 /*ENDL adds and endline in the printing before 
 					 flushing the buffer*/
 	cout<<"Adding more text"<<endl;
+	cout<<"Fruits "<<"Vegetables \n"<<"Rice"<<" "<<"Potatoes"<<flush;
+	/*  It's possible to 
+	 print several pieces
+	 of text in a single
+	 line by using
+	multiple chevrons
+	 */
+
 	return 0;
 }
 
