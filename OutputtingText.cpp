@@ -14,6 +14,10 @@ int main(){
 	multiple chevrons
 	 */
 
+	//waiting for the user to press ENTER
+        cin.get();
+
+
 	return 0;
 }
 
